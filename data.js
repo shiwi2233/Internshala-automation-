@@ -1,10 +1,10 @@
 module.exports = [
     {
         
-    "College" : "Usha Martin University",
-    "Degree"  : "Bachelor of Computer Application (BCA)",
-    "Stream"  : "Information Technology",
-    "Cgpa"    : "9.2",
+    "College" : "",
+    "Degree"  : "",
+    "Stream"  : "",
+    "Cgpa"    : "",
     "Training":"Web Development",
     "Organization": "XYZ",
     "description":"etc...etc",
